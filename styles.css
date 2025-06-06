@@ -71,7 +71,9 @@ body {
         0 0 250px #007bff;
    }
     
-
+ img{
+       filter:saturate(1);
+ }
     @keyframes beamSpread {
       0% {
         transform: rotate(var(--angle)) scaleY(0.2);
