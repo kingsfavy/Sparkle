@@ -45,7 +45,7 @@ body {
 
     .stripe {
       position: absolute;
-      width: 5px;
+      width: 1px;
       height: 100px;
       /*background: rgba(0, 195, 255, 1);*/
 /*background:#c2c2c2;*/
